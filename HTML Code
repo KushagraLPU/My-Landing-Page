@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Landing Page</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Landing Page</h1>
+    <p>Discover amazing products and services.</p>
+  </header>
+  
+  <section id="main-section">
+    <h2>About Us</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus ante ac nunc vehicula rutrum.</p>
+    <a href="#contact-section" class="cta-button">Contact Us</a>
+  </section>
+  
+  <section id="features-section">
+    <h2>Our Features</h2>
+    <ul>
+      <li>Feature 1</li>
+      <li>Feature 2</li>
+      <li>Feature 3</li>
+    </ul>
+  </section>
+  
+  <section id="contact-section">
+    <h2>Contact Us</h2>
+    <form>
+      <input type="text" placeholder="Your Name">
+      <input type="email" placeholder="Your Email">
+      <textarea placeholder="Message"></textarea>
+      <input type="submit" value="Submit">
+    </form>
+  </section>
+  
+  <footer>
+    <p>&copy; 2023 My Landing Page. All rights reserved.</p>
+  </footer>
+</body>
+</html>
